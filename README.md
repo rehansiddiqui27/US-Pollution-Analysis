@@ -1,4 +1,7 @@
 # 🌎📊 𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐔.𝐒. 𝐏𝐨𝐥𝐥𝐮𝐭𝐢𝐨𝐧 𝐓𝐫𝐞𝐧𝐝𝐬 (𝟐𝟎𝟎𝟔-𝟐𝟎𝟏𝟎) 𝐓𝐡𝐫𝐨𝐮𝐠𝐡 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 📈🌱
+
+[US Pollution 2006-2010.pdf](https://github.com/user-attachments/files/18489174/US.Pollution.2006-2010.pdf)
+
 * Excited to share my latest Power BI project, where I dove into a comprehensive dataset detailing air pollution across the 𝐔𝐧𝐢𝐭𝐞𝐝 𝐒𝐭𝐚𝐭𝐞𝐬 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 𝟐𝟎𝟎𝟔 𝐚𝐧𝐝 𝟐𝟎𝟏𝟎. Leveraging Power BI, I transformed this rich dataset into meaningful visualizations to uncover trends and insights into air quality across states, cities, and counties.
 
 ## 💡 𝐊𝐞𝐲 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬:
